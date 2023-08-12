@@ -1,0 +1,1 @@
+This project was created for study purposes with emphasis on javascript
